@@ -11,9 +11,9 @@ export default function App() {
       // allChildList[0].checked = "checked";
       var list1 = allChildList[0].childNodes;
       console.log(allChildList[0].childNodes);
-      for (i = 0 in list1.length) {
-        console.log(list1);
-      }
+      // for (i = 0 in list1.length) {
+      //   console.log(list1);
+      // }
       // nextli.each(function () {
       //   $(this).children().prop("checked", true);
       // });
